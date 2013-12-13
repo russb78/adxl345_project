@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+
+# adxl345 accelerometer example program v0.2
+# Russell Barnes - 12 Dec 2013 for Linux User magazine issue 135
+# www.linuxuser.co.uk
+
 import pygame
 from adxl345 import ADXL345
 
